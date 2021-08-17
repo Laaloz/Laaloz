@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋, I'm Laalo</h1>
+<h1 align="center">Hello there 👋 - I'm Laalo</h1>
 <h3 align="left">A passionate Frontend developer from Finland</h3>
 
 I do content on Development and Design, I really enjoy learning languages and frameworks like React and React native, as well SCSS and visual stuff.
