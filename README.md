@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Laalo</h1>
 <h3 align="center">A passionate developer/designer from Finland</h3>
 
-<p align="center" - 🔭 I’m currently working on [Crypto website](https://www.summon.fi/)>
+<p align="center" - 🔭 I’m currently working on [Crypto website](https://www.summon.fi/)/>
 
 - 🌱 I’m currently learning **Full Stack open 2021 and React**
 
