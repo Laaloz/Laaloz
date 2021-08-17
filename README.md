@@ -1,6 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Laalo</h1>
 <h3 align="left">A passionate Frontend developer from Finland</h3>
-<p align="left">I do content on Development and Design, I really enjoy learning languages and frameworks like React and React native, as well SCSS and visual stuff.</p>
+
+I do content on Development and Design, I really enjoy learning languages and frameworks like React and React native, as well SCSS and visual stuff.
 
 - 🔭 I’m currently working on [Summon Research website](https://www.summon.fi/)
 
