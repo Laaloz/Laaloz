@@ -8,7 +8,7 @@
 
 - 👨‍💻 My top projects are available at [https://www.laaloceesay.com/](https://www.laaloceesay.com/)
 
-- 📝 I regularly write articles on [my Blog](https://www.laaloceesay.com/Blog)
+- 📝 I regularly write articles on [Blog](https://www.laaloceesay.com/Blog)
 
 - 📫 How to reach me **laaloceesay@gmail.com**
 
