@@ -2,7 +2,7 @@
 <h3 align="left">A passionate Frontend developer from Finland</h3>
 <p align="left">I do content on Development and Design, I really enjoy learning languages and frameworks like React and React native, as well SCSS and visual stuff.</p>
 
-- 🔭 I’m currently working on [Crypto website](https://www.summon.fi/)
+- 🔭 I’m currently working on [Summon research site](https://www.summon.fi/)
 
 - 🌱 I’m currently learning **[Full Stack open 2021](https://fullstackopen.com/en/)**
 
