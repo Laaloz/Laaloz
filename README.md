@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [my Blog](https://www.laaloceesay.com/Blog)
 
-- 📫 How to reach me **[gmail](laaloceesay@gmail.com)**
+- 📫 How to reach me **[Email](laaloceesay@gmail.com)**
 
 - ⚡ Fun fact **Cake is a lie**
 
