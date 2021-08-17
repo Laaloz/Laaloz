@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Crypto website](https://www.summon.fi/)
 
-- 🌱 I’m currently learning **Full Stack open 2021 and React**
+- 🌱 I’m currently learning **[Full Stack open 2021](https://fullstackopen.com/en/)**
 
 - 👨‍💻 My top projects are available at [https://www.laaloceesay.com/](https://www.laaloceesay.com/)
 
