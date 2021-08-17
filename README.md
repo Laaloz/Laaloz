@@ -3,9 +3,11 @@
 
 I do content on Development and Design, I really enjoy learning languages and frameworks like React and React native, as well SCSS and visual stuff.
 
-- 🔭 I’m currently seeking for job opportunities and my latest work was [Summon Research website](https://www.summon.fi/)
+- 🔭 I’m currently seeking for job opportunities
 
 - 🌱 I’m currently learning **[Full Stack open 2021](https://fullstackopen.com/en/)**
+
+- :computer: My latest work was [Summon Research website](https://www.summon.fi/)
 
 - 👨‍💻 My top projects are available at [https://www.laaloceesay.com/](https://www.laaloceesay.com/)
 
