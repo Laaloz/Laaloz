@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello there, I'm [Laalo](https://www.laaloceesay.com/) from Finland 👋
+
+## I do content on Development and Design. I really enjoy learning languages and frameworks like React and React native, as well ui, ux and visual stuff in general.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laaloz)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Laaloz/Laaloz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
