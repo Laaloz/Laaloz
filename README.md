@@ -21,7 +21,7 @@ I do content on Development and Design, I really enjoy learning languages and fr
 <p align="left">
 <a href="https://instagram.com/laaloz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="laaloz" height="25" width="35" /></a>
 <a href="https://codepen.io/laaloz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="laaloz" height="24" width="34" /></a>
-<a href="https://linkedin.com/in/laalo ceesay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laalo ceesay" height="20" width="30" /></a>
+<a href="https://www.linkedin.com/in/laaloceesay/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laalo ceesay" height="20" width="30" /></a>
 <a href="https://twitter.com/ceesaylaalo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ceesaylaalo" height="20" width="30" /></a>
 
 
