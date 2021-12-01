@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋 - I'm Laalo</h1>
 <h3 align="left">A passionate Developer from Finland</h3>
 
-I do Development and Design, I really enjoy learning languages and frameworks like React and React native, as well SCSS and visual stuff.
+I do Development and Design, I really enjoy learning languages and frameworks as well SCSS and visual stuff.
 
 - 🔭 I’m currently working at [Into-digital](https://into-digital.fi/)
 
