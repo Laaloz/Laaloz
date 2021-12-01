@@ -3,7 +3,7 @@
 
 I do Development and Design, I really enjoy learning languages and frameworks like React and React native, as well SCSS and visual stuff.
 
-- 🔭 I’m currently seeking for job opportunities
+- 🔭 I’m currently working at [Into-digital](https://into-digital.fi/)
 
 - 🌱 I’m currently learning **[Full Stack open 2021](https://fullstackopen.com/en/)**
 
