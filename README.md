@@ -1,17 +1,15 @@
 <h1 align="center">Hello there 👋 - I'm Laalo</h1>
 <h3 align="left">A passionate Developer from Finland</h3>
 
-I do Development and Design, I really enjoy learning languages and frameworks as well SCSS and visual stuff.
+I do web development, I really enjoy learning languages and frameworks as well SCSS and visual stuff.
 
 - 🔭 I’m currently working at [Into-digital](https://into-digital.fi/)
 
-- 🌱 I’m currently learning **[Full Stack open 2021](https://fullstackopen.com/en/)**
+- 🌱 I’m currently learning **[Full Stack open](https://fullstackopen.com/en/)**
 
-- :computer: My latest work was [Summon Research website](https://www.summon.fi/)
+- :computer: My latest work was [Plan.fi](https://plan.fi/)
 
 - 👨‍💻 My top projects are available at [https://www.laaloceesay.com/](https://www.laaloceesay.com/)
-
-- 📝 I regularly write articles on [Blog](https://www.laaloceesay.com/Blog)
 
 - 📫 How to reach me **laaloceesay@gmail.com**
 
