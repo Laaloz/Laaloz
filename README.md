@@ -5,10 +5,6 @@ I do web development, I really enjoy learning languages and frameworks as well S
 
 - 🔭 I’m currently working at [Into-digital](https://into-digital.fi/)
 
-- 🌱 I’m currently learning **[Full Stack open](https://fullstackopen.com/en/)**
-
-- :computer: My latest work was [Plan.fi](https://plan.fi/)
-
 - 👨‍💻 My top projects are available at [https://www.laaloceesay.com/](https://www.laaloceesay.com/)
 
 - 📫 How to reach me **laaloceesay@gmail.com**
