@@ -7,7 +7,7 @@ I'm passionate about building modern web applications, improving developer workf
 Currently working at **Into-Digital**.
 
 🌐 **Portfolio**  
-https://www.laaloceesay.com
+https://laalo.dev
 
 💼 **LinkedIn**  
 https://www.linkedin.com/in/laaloceesay/
