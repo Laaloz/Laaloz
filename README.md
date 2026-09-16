@@ -7,6 +7,7 @@ Full-Stack Developer at **Into-Digital Oy**, Jyväskylä, Finland. I build websi
 ## Projects
 
 | | |
+|---|---|
 | [**portfolio-next**](https://github.com/Laaloz/portfolio-next) | laalo.dev: Next.js 16, React 19, TypeScript. Lighthouse 90+, WCAG-conscious. |
 | [**kyyks-ios**](https://github.com/Laaloz/kyyks-ios) | Volu, a training and nutrition app. SwiftUI client for a Next.js + Supabase (PostgreSQL) API. On the App Store since Aug 2026. |
 | [**astro-marika-web-studio**](https://github.com/Laaloz/astro-marika-web-studio) | studiomaura.fi: Astro, TypeScript, Tailwind, Sanity CMS, Netlify. |
