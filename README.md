@@ -1,6 +1,6 @@
 # Hi, I'm Laalo 👋
 
-Developer at **Into-Digital Oy**, Jyväskylä, Finland. I build websites, web stores and digital services from front-end to server, mainly with React, JavaScript, PHP and WordPress, and I use AI-assisted development daily.
+Developer at **FinMeas**, Jyväskylä, Finland.
 
 🌐 [laalo.dev](https://laalo.dev) · 💼 [LinkedIn](https://www.linkedin.com/in/laaloceesay/) · 📧 laaloceesay@gmail.com
 
